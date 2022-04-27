@@ -1,9 +1,8 @@
 # Trend-Follow-Backtesting
-This is a python script to backtest trend following strategy.
 
-Strategy - Whenever a stock price increses by X% compared to its minimum price in last Y days, 
+*Strategy - Whenever a stock price increses by X% compared to its minimum price in last Y days, 
 we buy a stock and similarly whenever a stock price decreases by X% compared to its maximum price in last Y days, 
-we sell the stock.
+we sell the stock.*
 
 Data is downloaded from yahoo finance and cached in downloads folder(created at runtime), to avoid repeated download.
 
