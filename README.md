@@ -13,7 +13,7 @@ State=0 represents No active buy order or sell order.<br />
 State=1 represents Buy order is executed and waiting to exit position.<br />
 State=2 represents Sell order is executed and waiting to exit position.<br />
 
-Variables Used
+Variables Used<br />
 SYMBOLS  - List of all Stock symbols from yahoo finance we wish to backtest on.<br />
 DATA_RANGE - Range of historial data to use, example "5y" represents past 5 year data.<br />
 DATA_INTERVAL = Interval of downloaded data, "1d" represents daily price data.<br />
