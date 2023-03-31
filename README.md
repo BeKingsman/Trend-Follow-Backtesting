@@ -1,5 +1,7 @@
 # Trend-Follow-Backtesting
 
+C++ version of this project is available at: https://github.com/BeKingsman/Trend-Following-Strategy-CPP-Version
+
 *Strategy - Whenever a stock price increses by X% compared to its minimum price in last Y days, 
 we buy a stock and similarly whenever a stock price decreases by X% compared to its maximum price in last Y days, 
 we sell the stock.*
